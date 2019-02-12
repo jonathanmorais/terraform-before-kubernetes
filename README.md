@@ -1,3 +1,3 @@
 # terraform-before-kubernetes
 
-Configuração automatizada para um número pré determinado de máquinas. O intuito é provsionar de forma rápida algumas instâncias para logo em seguida, ser aplicado testes de um cluster Kubernetes.
+Automated configuration for a predetermined number of machines. The purpose is to quickly provide a few instances for soon to be applied tests of a Kubernetes cluster.
